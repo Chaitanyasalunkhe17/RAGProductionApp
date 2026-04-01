@@ -1,4 +1,4 @@
-# 🤖 RAG Production App (Gemini API)
+# RAG Production App (Gemini API)
 
 ## 📌 Overview
 
